@@ -1,0 +1,11 @@
+package ConstrutAssign;
+
+
+public class Retangle {
+
+	public static void main(String[] args) {
+
+
+	}
+
+}
